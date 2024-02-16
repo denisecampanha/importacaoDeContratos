@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisacontratoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisacontratoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\repositorios\\contratosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\repositorios\\contratosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisacontratoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisacontratoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisacontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisacontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisacontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisacontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisaarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisaarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmpesquisaarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmpesquisaarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmcadastrarcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmcadastrarcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmcadastrarcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmcadastrarcontratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\repositorios\\arquivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\repositorios\\arquivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\repositorios\\dbconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\repositorios\\dbconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\classes\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\classes\\contratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\classes\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\classes\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\repositorios\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\repositorios\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\classes\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\classes\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|c:\\users\\denise\\source\\repos\\importacaodecontratos\\importacaodecontratos\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61DABD5-CFC2-4E11-90D6-E1BFB7592D86}|ImportacaoDeContratos\\ImportacaoDeContratos.csproj|solutionrelative:importacaodecontratos\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArquivosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\ArquivosRepositorio.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Repositorios\\ArquivosRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\ArquivosRepositorio.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Repositorios\\ArquivosRepositorio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:50:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuariosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\UsuariosRepositorio.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Repositorios\\UsuariosRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\UsuariosRepositorio.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Repositorios\\UsuariosRepositorio.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:44:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\ContratosRepositorio.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Repositorios\\ContratosRepositorio.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\ContratosRepositorio.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Repositorios\\ContratosRepositorio.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:18:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbConexao.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\DbConexao.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Repositorios\\DbConexao.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Repositorios\\DbConexao.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Repositorios\\DbConexao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAewBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:07:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Usuarios.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Classes\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Usuarios.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Classes\\Usuarios.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:50:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Arquivos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Arquivos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Classes\\Arquivos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Arquivos.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Classes\\Arquivos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:48:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contratos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Contratos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Classes\\Contratos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Classes\\Contratos.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Classes\\Contratos.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:43:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.Designer.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAtwFIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T01:37:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPesquisaContratos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:51:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPesquisaContratosCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:46:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.cs [Projeto]",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T15:15:26.837Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmLogin.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmLogin.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:54:36.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPesquisaArquivos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:49:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCadastrarContratos.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:24:30.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Program.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\Program.cs",
+              "RelativeToolTip": "ImportacaoDeContratos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:15:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPesquisaContratosCliente.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaContratosCliente.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratosCliente.cs [Projeto]",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaContratosCliente.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:56:34.868Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPesquisaContratos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaContratos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaContratos.cs [Projeto]",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaContratos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:29:17.523Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCadastrarContratos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmCadastrarContratos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmCadastrarContratos.cs [Projeto]",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmCadastrarContratos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:30:09.255Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPesquisaArquivos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "RelativeDocumentMoniker": "ImportacaoDeContratos\\frmPesquisaArquivos.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\ImportacaoDeContratos\\ImportacaoDeContratos\\frmPesquisaArquivos.cs [Projeto]",
+              "RelativeToolTip": "ImportacaoDeContratos\\frmPesquisaArquivos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:28:52.345Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
